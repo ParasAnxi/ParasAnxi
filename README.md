@@ -1,6 +1,6 @@
 <h1 align="center">こんにちは. 你好. 안녕하세요. Hola.🤗 It,s me Paras.</h1>
 <h3 align="center">Lone wolf 🐺 Adept & Autodidact.</h3>
-<img align>="right" alt="I am noob" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif">
+<img align="right" alt="I'm Noob" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasanxi&label=Profile%20views&color=0e75b6&style=flat" alt="parasanxi" /> </p>
 
