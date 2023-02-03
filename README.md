@@ -2,7 +2,7 @@
 <h1 align="center">こんにちは. 你好. 안녕하세요. Hola.🤗 It,s me Paras.</h1>
 <h3 align="center">Lone wolf 🐺 Adept & Autodidact.</h3>
 <img align="left" alt="Hey" width="800" src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4ibmr7CXmsW3cHWcNJqvO8noUaDtFFkNFgKso3Kx7XLC">
-<img align="right" alt="I'm Noob" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif">
+<img align="left" alt="I'm Noob" width="800" src="https://gifburg.com/images/gifs/anime/gifs/0001.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasanxi&label=Profile%20views&color=0e75b6&style=flat" alt="parasanxi" /> </p>
