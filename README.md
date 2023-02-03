@@ -1,5 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/06/80/81/068081ee5b913a47003a64f7233825fe.gif)](https://ParasAnxi.io)
-<h1 align="center">こんにちは. 你好. 안녕하세요. Hola.🤗 It,s me Paras.</h1>
+[![MasterHead](https://randomc.net/image/Miscellaneous/new_site_banner_3.png)](https://ParasAnxi.io)
+<h1 align="center">こんにちは. 你好. 안녕하세요. Hola.🤗<br> It,s me Paras.</h1>
 <h3 align="center">Lone wolf 🐺 Adept & Autodidact.</h3>
 <img align="left" alt="Hey" width="800" src="https://gifburg.com/images/gifs/anime/gifs/0001.gif">
 <br>
