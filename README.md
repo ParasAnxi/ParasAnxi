@@ -1,6 +1,6 @@
 [![MasterHead](https://randomc.net/image/Miscellaneous/new_site_banner_3.png)](https://ParasAnxi.io)
 <h1 align="center">こんにちは. 你好. 안녕하세요.🤗<br> It's me Paras.</h1>
-<h3 align="center">Lone wolf 🐺 Adept & Autodidact.</h3>
+<h3 align="center">Lone wolf 🐺.</h3>
 <!-- <img align="left" alt="Hey" width="800" src="https://gifburg.com/images/gifs/anime/gifs/0001.gif"> -->
 <br>
 <img align="left" alt="I'm Noob" width="800" src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4ibmr7CXmsW3cHWcNJqvO8noUaDtFFkNFgKso3Kx7XLC">
