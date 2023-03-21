@@ -1,4 +1,4 @@
-[![MasterHead](https://randomc.net/image/Miscellaneous/new_site_banner_3.png)](https://ParasAnxi.io)
+[![MasterHead]([https://randomc.net/image/Miscellaneous/new_site_banner_3.png](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe.png))](https://ParasAnxi.io)
 <h1 align="center">こんにちは. 你好. 안녕하세요.🤗<br> It's me Paras.</h1>
 <h3 align="center">Lone wolf 🐺.</h3>
 <!-- <img align="left" alt="Hey" width="800" src="https://gifburg.com/images/gifs/anime/gifs/0001.gif"> -->
