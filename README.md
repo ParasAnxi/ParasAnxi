@@ -1,4 +1,4 @@
-[![MasterHead]('gitP.png')](https://ParasAnxi.io)
+[![MasterHead](gitP.png)](https://ParasAnxi.io)
 <h1 align="center">こんにちは. 你好. 안녕하세요.🤗<br> It's me Paras.</h1>
 <h3 align="center">Lone wolf 🐺.</h3>
 <!-- <img align="left" alt="Hey" width="800" src="https://gifburg.com/images/gifs/anime/gifs/0001.gif"> -->
