@@ -26,7 +26,7 @@
 <a href="https://leetcode.com/ParasAnxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/parasanxi/" height="30" width="40" /></a>
 </p>
 
-<h2 align="center"><img src="https://github.com/ParasAnxi/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<h2 align="center"><img src="https://assets.leetcode.com/users/avatars/avatar_1673099144.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
   <a href="[https://leetcode.com/ParasAnxi](https://leetcode.com/ParasAnxi/)" target="_blank">
     <img width=60% src="https://leetcode.card.workers.dev/?username=ParasAnxi&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
