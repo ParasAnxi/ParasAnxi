@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/imaizumiParas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/imaizumi.paras22" height="30" width="40" /></a>
-<a href="https://instagram.com/paras.bhandari22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paras.bhandari22" height="30" width="40" /></a>
+<a href="https://x.com/imaizumi_Paras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/imaizumi_Paras" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imaizumi.paras22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaizumi.paras22" height="30" width="40" /></a>
 <a href="https://leetcode.com/ParasAnxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/parasanxi/" height="30" width="40" /></a>
 </p>
 
