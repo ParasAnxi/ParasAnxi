@@ -13,7 +13,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ParasAnxi&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=ParasAnxi&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
